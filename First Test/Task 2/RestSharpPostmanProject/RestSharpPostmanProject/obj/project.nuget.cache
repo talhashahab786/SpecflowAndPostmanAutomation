@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/3vjQGiIbavXoRfvSYkgJS4nPf+gRYVQYelMfkTWa2054599fpz7/6WLthQAoDzxRtJY/jdBhh5irl82fNU3kA==",
+  "success": true,
+  "projectFilePath": "D:\\D\\Task 2\\RestSharpPostmanProject\\RestSharpPostmanProject\\RestSharpPostmanProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Talha's Workspace\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Talha's Workspace\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Talha's Workspace\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Talha's Workspace\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

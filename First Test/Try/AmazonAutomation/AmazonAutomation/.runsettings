@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<!-- Configuration for the test run -->
+	<RunConfiguration>
+		<!-- Target framework to be used for the test run -->
+		<TargetFrameworkVersion>.NETFramework,Version=v4.8</TargetFrameworkVersion>
+		<!-- Target platform for the test run -->
+		<TargetPlatform>x64</TargetPlatform>
+	</RunConfiguration>
+
+	<!-- Test Execution Configuration -->
+	<TestRunConfiguration>
+		<!-- Specify any specific test execution settings -->
+		<MaxCpuCount>4</MaxCpuCount>
+		<ResultsDirectory>.\TestResults</ResultsDirectory>
+	</TestRunConfiguration>
+
+	<!-- Code Coverage Configuration -->
+	<CodeCoverage>
+		<!-- Specify code coverage settings -->
+		<ModulePaths>
+			<!-- Specify paths to modules to include in code coverage analysis -->
+			<Include>
+				<ModulePath>.*\.dll$</ModulePath>
+			</Include>
+			<!-- Specify paths to modules to exclude from code coverage analysis -->
+			<Exclude>
+				<ModulePath>.*\.Tests\.dll$</ModulePath>
+			</Exclude>
+		</ModulePaths>
+	</CodeCoverage>
+
+</RunSettings>

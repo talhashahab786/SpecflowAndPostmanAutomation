@@ -1,0 +1,75 @@
+/*
+ * 
+      
+        [Test]
+        public void TheUntitledTestCaseTest()
+        {
+            driver.Navigate().GoToUrl("https://www.amazon.com/");
+            driver.FindElement(By.Id("captchacharacters")).Click();
+            driver.FindElement(By.Id("captchacharacters")).Clear();
+            driver.FindElement(By.Id("captchacharacters")).SendKeys("xbulfj");
+            driver.FindElement(By.XPath("//button[@type='submit']")).Click();
+            driver.FindElement(By.Id("twotabsearchtextbox")).Click();
+            driver.FindElement(By.Id("twotabsearchtextbox")).Clear();
+            driver.FindElement(By.Id("twotabsearchtextbox")).SendKeys("TP-Link N450 WiFi Router - Wireless Internet Router for Home (TL-WR940N)");
+            driver.FindElement(By.Id("nav-search-submit-button")).Click();
+            driver.FindElement(By.Id("a-autoid-2-announce")).Click();
+            driver.FindElement(By.Id("a-autoid-4-announce")).Click();
+            driver.FindElement(By.LinkText("Go to Cart")).Click();
+            driver.FindElement(By.XPath("//div[@id='sc-active-9bd18247-ab42-4656-a9c8-dc748b131746']/div[4]/div/div[2]/ul/li/span/a/span/span/span[2]")).Click();
+            // ERROR: Caught exception [ERROR: Unsupported command [selectWindow | win_ser_1 | ]]
+            // ERROR: Caught exception [ERROR: Unsupported command [selectWindow | win_ser_local | ]]
+            driver.FindElement(By.XPath("//div[@id='sc-active-9bd18247-ab42-4656-a9c8-dc748b131746']/div[4]/div/div[2]/ul/li/span/a/span/span/span[2]")).Click();
+            // ERROR: Caught exception [ERROR: Unsupported command [selectWindow | win_ser_2 | ]]
+            // ERROR: Caught exception [ERROR: Unsupported command [selectWindow | win_ser_local | ]]
+            driver.FindElement(By.XPath("//div[@id='sc-active-9bd18247-ab42-4656-a9c8-dc748b131746']/div[4]/div/div[2]/ul/li/span/a/span/span/span[2]")).Click();
+            // ERROR: Caught exception [ERROR: Unsupported command [selectWindow | win_ser_3 | ]]
+            // ERROR: Caught exception [ERROR: Unsupported command [selectWindow | win_ser_local | ]]
+            driver.FindElement(By.XPath("//div[@id='sc-active-9bd18247-ab42-4656-a9c8-dc748b131746']/div[4]/div/div[2]/ul/div/div/div/div/span")).Click();
+            driver.FindElement(By.XPath("//div[@id='sc-active-265468e9-3d7a-40c7-9230-ec5439d4453b']/div[4]/div/div[2]/ul/li/span/a/span/span/span[2]")).Click();
+            // ERROR: Caught exception [ERROR: Unsupported command [selectWindow | win_ser_4 | ]]
+            // ERROR: Caught exception [ERROR: Unsupported command [selectWindow | win_ser_local | ]]
+            driver.FindElement(By.XPath("//div[@id='sc-active-265468e9-3d7a-40c7-9230-ec5439d4453b']/div[4]/div/div[2]/ul/div/div/div/div/span")).Click();
+            driver.FindElement(By.XPath("//span[@id='sc-subtotal-amount-activecart']/span")).Click();
+        }
+        private bool IsElementPresent(By by)
+        {
+            try
+            {
+                driver.FindElement(by);
+                return true;
+            }
+            catch (NoSuchElementException)
+            {
+                return false;
+            }
+        }
+        
+        private bool IsAlertPresent()
+        {
+            try
+            {
+                driver.SwitchTo().Alert();
+                return true;
+            }
+            catch (NoAlertPresentException)
+            {
+                return false;
+            }
+        }
+        
+        private string CloseAlertAndGetItsText() {
+            try {
+                IAlert alert = driver.SwitchTo().Alert();
+                string alertText = alert.Text;
+                if (acceptNextAlert) {
+                    alert.Accept();
+                } else {
+                    alert.Dismiss();
+                }
+                return alertText;
+            } finally {
+                acceptNextAlert = true;
+            }
+        }
+ */

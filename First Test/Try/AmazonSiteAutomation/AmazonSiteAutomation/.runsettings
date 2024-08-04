@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <!-- Configuration for the test run -->
+  <RunConfiguration>
+    <!-- Target framework to be used for the test run -->
+    <TargetFrameworkVersion>.NETFramework,Version=v4.8</TargetFrameworkVersion>
+    <!-- Target platform for the test run -->
+    <TargetPlatform>x64</TargetPlatform>
+  </RunConfiguration>
+
+</RunSettings>

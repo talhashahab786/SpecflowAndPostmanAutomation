@@ -1,0 +1,4 @@
+C:\Users\Talha's Workspace\Desktop\AmazonSiteAutomation\AmazonSiteAutomation\obj\Debug\AmazonSiteAutomation.csproj.AssemblyReference.cache
+C:\Users\Talha's Workspace\Desktop\AmazonSiteAutomation\AmazonSiteAutomation\obj\Debug\AmazonSiteAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Talha's Workspace\Desktop\AmazonSiteAutomation\AmazonSiteAutomation\obj\Debug\AmazonSiteAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Talha's Workspace\Desktop\AmazonSiteAutomation\AmazonSiteAutomation\obj\Debug\AmazonSiteAutomation.exe.config

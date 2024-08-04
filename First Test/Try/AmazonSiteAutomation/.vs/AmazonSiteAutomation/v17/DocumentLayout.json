@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Talha\u0027s Workspace\\Desktop\\AmazonSiteAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA25F75-409D-4C2E-94D7-98F918A6A3CD}|AmazonSiteAutomation\\AmazonSiteAutomation.csproj|C:\\Users\\Talha\u0027s Workspace\\Desktop\\AmazonSiteAutomation\\amazonsiteautomation\\shoppingcartsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA25F75-409D-4C2E-94D7-98F918A6A3CD}|AmazonSiteAutomation\\AmazonSiteAutomation.csproj|solutionrelative:amazonsiteautomation\\shoppingcartsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AmazonSiteAutomation||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA25F75-409D-4C2E-94D7-98F918A6A3CD}|AmazonSiteAutomation\\AmazonSiteAutomation.csproj|C:\\Users\\Talha\u0027s Workspace\\Desktop\\AmazonSiteAutomation\\amazonsiteautomation\\automateamazonfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1FA25F75-409D-4C2E-94D7-98F918A6A3CD}|AmazonSiteAutomation\\AmazonSiteAutomation.csproj|solutionrelative:amazonsiteautomation\\automateamazonfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Talha\u0027s Workspace\\Desktop\\AmazonSiteAutomation\\AmazonSiteAutomation\\AutomateAmazonFeature.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AmazonSiteAutomation\\AutomateAmazonFeature.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA25F75-409D-4C2E-94D7-98F918A6A3CD}|AmazonSiteAutomation\\AmazonSiteAutomation.csproj|C:\\Users\\Talha\u0027s Workspace\\Desktop\\AmazonSiteAutomation\\amazonsiteautomation\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1FA25F75-409D-4C2E-94D7-98F918A6A3CD}|AmazonSiteAutomation\\AmazonSiteAutomation.csproj|solutionrelative:amazonsiteautomation\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA25F75-409D-4C2E-94D7-98F918A6A3CD}|AmazonSiteAutomation\\AmazonSiteAutomation.csproj|c:\\users\\talha\u0027s workspace\\desktop\\amazonsiteautomation\\amazonsiteautomation\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutomateAmazonFeature.feature.cs",
+              "DocumentMoniker": "C:\\Users\\Talha\u0027s Workspace\\Desktop\\AmazonSiteAutomation\\AmazonSiteAutomation\\AutomateAmazonFeature.feature.cs",
+              "RelativeDocumentMoniker": "AmazonSiteAutomation\\AutomateAmazonFeature.feature.cs",
+              "ToolTip": "C:\\Users\\Talha\u0027s Workspace\\Desktop\\AmazonSiteAutomation\\AmazonSiteAutomation\\AutomateAmazonFeature.feature.cs",
+              "RelativeToolTip": "AmazonSiteAutomation\\AutomateAmazonFeature.feature.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:38:08.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AmazonSiteAutomation",
+              "DocumentMoniker": "C:\\Users\\Talha\u0027s Workspace\\Desktop\\AmazonSiteAutomation\\AmazonSiteAutomation\\AmazonSiteAutomation.csproj",
+              "RelativeDocumentMoniker": "AmazonSiteAutomation\\AmazonSiteAutomation.csproj",
+              "ToolTip": "C:\\Users\\Talha\u0027s Workspace\\Desktop\\AmazonSiteAutomation\\AmazonSiteAutomation\\AmazonSiteAutomation.csproj",
+              "RelativeToolTip": "AmazonSiteAutomation\\AmazonSiteAutomation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-16T08:37:24.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutomateAmazonFeature.feature",
+              "DocumentMoniker": "C:\\Users\\Talha\u0027s Workspace\\Desktop\\AmazonSiteAutomation\\AmazonSiteAutomation\\AutomateAmazonFeature.feature",
+              "RelativeDocumentMoniker": "AmazonSiteAutomation\\AutomateAmazonFeature.feature",
+              "ToolTip": "C:\\Users\\Talha\u0027s Workspace\\Desktop\\AmazonSiteAutomation\\AmazonSiteAutomation\\AutomateAmazonFeature.feature",
+              "RelativeToolTip": "AmazonSiteAutomation\\AutomateAmazonFeature.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-16T08:38:00.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Talha\u0027s Workspace\\Desktop\\AmazonSiteAutomation\\AmazonSiteAutomation\\packages.config",
+              "RelativeDocumentMoniker": "AmazonSiteAutomation\\packages.config",
+              "ToolTip": "C:\\Users\\Talha\u0027s Workspace\\Desktop\\AmazonSiteAutomation\\AmazonSiteAutomation\\packages.config",
+              "RelativeToolTip": "AmazonSiteAutomation\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-16T08:23:16.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCartSteps.cs",
+              "DocumentMoniker": "C:\\Users\\Talha\u0027s Workspace\\Desktop\\AmazonSiteAutomation\\AmazonSiteAutomation\\ShoppingCartSteps.cs",
+              "RelativeDocumentMoniker": "AmazonSiteAutomation\\ShoppingCartSteps.cs",
+              "ToolTip": "C:\\Users\\Talha\u0027s Workspace\\Desktop\\AmazonSiteAutomation\\AmazonSiteAutomation\\ShoppingCartSteps.cs",
+              "RelativeToolTip": "AmazonSiteAutomation\\ShoppingCartSteps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:20:58.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
